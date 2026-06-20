@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey Anish Here! ✨
 
-<!--
-**anishlytic/anishlytic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science undergraduate from India, interested in building data-driven and intelligent systems.
 
-Here are some ideas to get you started:
+Currently pursuing **🎓B.Tech in Data Science**.
+###
+My main 🛠️ Tech Stacks include:- Python,SQL and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Designing:-Figma.
+
+Tools:- VS Code and Anaconda.(*and antigravity,just for fun*)
+###
+<sub>Passionate about Machine Learning, Data Analytics, and AI.<sub>
+### 
+When I'm not working with data, you'll probably find me:
+- Training at the gym and working on fitness goals. 
+- Listening to music while coding or studying.
+- Cooking and experimenting with new recipes.
+
+<sub>*Always learning.Always building.*</sub>
+ 
