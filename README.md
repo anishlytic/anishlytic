@@ -14,7 +14,7 @@ Tools:- VS Code and Anaconda.(*and antigravity,just for fun*)
 ### 
 When I'm not working with data, you'll probably find me:
 - Training at the gym and working on fitness goals. 
-- Listening to music while coding or studying.
+- Vibing to music while coding or studying.
 - Cooking and experimenting with new recipes.
 
 <sub>*Always learning.Always building.*</sub>
